@@ -1,0 +1,458 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1667946873075,0,Time_without_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873075,0,Time_without_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873075,0,Time_with_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873075,0,Time_with_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873078,0,Time_without_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873078,0,Time_with_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873078,0,Time_without_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873078,0,Time_with_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873078,0,Time_without_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873078,0,Time_with_pause,200,"Number of samples in transaction : 0, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
+1667946873076,181,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,181,0,60
+1667946873079,211,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,211,0,96
+1667946873078,212,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,212,0,97
+1667946873078,231,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,231,0,97
+1667946873076,268,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,268,0,100
+1667946873260,344,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,344,0,0
+1667946873295,345,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,345,0,0
+1667946873311,470,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,470,0,0
+1667946873346,519,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,519,0,0
+1667946873294,898,register_player,201,Created,jp@gc - Ultimate Thread Group 1-4,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,898,0,0
+1667946873604,801,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,801,0,0
+1667946873640,853,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,853,0,0
+1667946873782,729,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,729,0,0
+1667946874192,488,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,488,0,0
+1667946873865,1194,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1194,0,0
+1667946874409,1110,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1110,0,0
+1667946874682,953,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,953,0,0
+1667946874516,1149,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-5,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1149,0,0
+1667946874496,1170,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1170,0,0
+1667946875639,475,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1153,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45311,475,0,0
+1667946875063,1061,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1060,0,0
+1667946878076,201,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,201,0,61
+1667946878079,198,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,198,0,60
+1667946878077,205,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,205,0,62
+1667946878081,201,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,201,0,60
+1667946878081,249,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,249,0,60
+1667946878285,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,351,0,0
+1667946878282,361,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,361,0,0
+1667946878281,364,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,364,0,0
+1667946878285,386,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,386,0,0
+1667946878671,660,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,660,0,0
+1667946878332,1016,register_player,201,Created,jp@gc - Ultimate Thread Group 1-5,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1016,0,0
+1667946878644,720,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,720,0,0
+1667946878645,773,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,773,0,0
+1667946878636,839,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,839,0,0
+1667946879349,329,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,329,0,0
+1667946879334,832,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,832,0,0
+1667946879365,847,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,847,0,0
+1667946879419,852,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,852,0,0
+1667946879680,601,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,601,0,0
+1667946879476,1048,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1048,0,0
+1667946880283,853,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1153,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45312,853,0,0
+1667946883076,191,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,191,0,61
+1667946883075,192,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,192,0,61
+1667946883079,190,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,190,0,60
+1667946883078,246,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,246,0,59
+1667946883081,244,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,244,0,61
+1667946883274,333,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,333,0,0
+1667946883272,336,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,336,0,0
+1667946883329,462,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,462,0,0
+1667946883329,537,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,537,0,0
+1667946883270,731,register_player,422,Data Validation Failed.,jp@gc - Ultimate Thread Group 1-1,text,false,,1093,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,731,0,0
+1667946883607,737,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,737,0,0
+1667946884002,394,Player_token_after_register,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,332,365,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,394,0,0
+1667946883608,843,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,843,0,0
+1667946884399,103,Get_player_info,401,Unauthorized,jp@gc - Ultimate Thread Group 1-1,text,false,,573,196,5,5,http://test-api.d6.dev.devcaz.com/v2/players,103,0,0
+1667946883792,753,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,753,0,0
+1667946884506,100,Get_player_by_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,281,197,5,5,http://test-api.d6.dev.devcaz.com/v2/players/,100,0,0
+1667946883867,813,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,813,0,0
+1667946884347,440,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,440,0,0
+1667946884455,465,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-2,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,465,0,0
+1667946884548,496,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,496,0,0
+1667946884684,914,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,914,0,0
+1667946888077,184,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,184,0,60
+1667946888080,191,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,191,0,60
+1667946888080,196,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,196,0,60
+1667946888077,236,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,236,0,61
+1667946888082,249,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,249,0,61
+1667946888275,334,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,334,0,0
+1667946888281,393,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,393,0,0
+1667946888266,421,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,421,0,0
+1667946888317,503,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,503,0,0
+1667946888335,541,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,541,0,0
+1667946888610,795,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,795,0,0
+1667946888674,748,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,748,0,0
+1667946888820,602,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,602,0,0
+1667946888687,822,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,822,0,0
+1667946888877,1307,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1307,0,0
+1667946889408,862,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-4,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,862,0,0
+1667946889423,930,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,930,0,0
+1667946889423,1135,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1135,0,0
+1667946889513,1123,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1123,0,0
+1667946890188,952,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-3,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,952,0,0
+1667946893076,183,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,183,0,61
+1667946893077,182,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,182,0,60
+1667946893080,179,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,179,0,60
+1667946893080,234,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,234,0,60
+1667946893082,232,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,232,0,60
+1667946893264,349,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,349,0,0
+1667946893264,349,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,349,0,0
+1667946893321,572,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,572,0,0
+1667946893263,799,register_player,201,Created,jp@gc - Ultimate Thread Group 1-2,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,798,0,0
+1667946893320,1014,register_player,201,Created,jp@gc - Ultimate Thread Group 1-5,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1014,0,0
+1667946893614,742,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,742,0,0
+1667946893613,964,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,964,0,0
+1667946894062,566,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,566,0,0
+1667946893894,808,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,808,0,0
+1667946894335,416,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,416,0,0
+1667946894755,567,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,567,0,0
+1667946894359,1010,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1010,0,0
+1667946894580,839,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,839,0,0
+1667946894630,823,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,823,0,0
+1667946894705,1056,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1056,0,0
+1667946895324,924,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1153,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45314,924,0,0
+1667946895455,905,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1153,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45313,905,0,0
+1667946898077,184,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,184,0,62
+1667946898077,184,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,184,0,61
+1667946898080,181,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,181,0,61
+1667946898082,230,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,230,0,59
+1667946898080,232,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,232,0,61
+1667946898267,359,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,357,0,0
+1667946898267,366,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,364,0,0
+1667946898267,366,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,366,0,0
+1667946898315,610,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,610,0,0
+1667946898633,588,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,588,0,0
+1667946898626,598,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,598,0,0
+1667946898314,1019,register_player,201,Created,jp@gc - Ultimate Thread Group 1-4,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1019,0,0
+1667946898633,947,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,947,0,0
+1667946898925,757,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,757,0,0
+1667946899333,504,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,504,0,0
+1667946899225,1039,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1039,0,0
+1667946899227,1077,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-5,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1077,0,0
+1667946899584,1145,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-2,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1144,0,0
+1667946899683,1053,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1053,0,0
+1667946899839,897,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,897,0,0
+1667946900741,470,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-4,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,470,0,0
+1667946903092,210,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,210,0,60
+1667946903077,228,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,228,0,61
+1667946903077,228,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,228,0,62
+1667946903092,264,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,264,0,60
+1667946903092,264,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,264,0,63
+1667946903309,377,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,377,0,0
+1667946903306,402,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,402,0,0
+1667946903310,404,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,404,0,0
+1667946903361,486,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,486,0,0
+1667946903360,598,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,598,0,0
+1667946903709,842,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,842,0,0
+1667946903687,876,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,876,0,0
+1667946903715,917,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,917,0,0
+1667946903848,835,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,835,0,0
+1667946903958,1462,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1462,0,0
+1667946904635,806,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,806,0,0
+1667946904554,916,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,916,0,0
+1667946904566,936,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,936,0,0
+1667946904688,1133,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-5,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1133,0,0
+1667946905421,935,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,935,0,0
+1667946908092,206,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,206,0,59
+1667946908077,231,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,231,0,60
+1667946908077,231,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,231,0,68
+1667946908092,256,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,256,0,60
+1667946908092,268,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,268,0,60
+1667946908310,343,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,343,0,0
+1667946908300,355,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,355,0,0
+1667946908312,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,351,0,0
+1667946908350,485,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,485,0,0
+1667946908363,559,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,559,0,0
+1667946908655,777,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,777,0,0
+1667946908654,784,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,784,0,0
+1667946908664,920,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,920,0,0
+1667946908836,760,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,760,0,0
+1667946908922,1298,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1298,0,0
+1667946909433,880,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,880,0,0
+1667946909440,875,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,875,0,0
+1667946909598,1068,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1068,0,0
+1667946909586,1153,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1153,0,0
+1667946910222,912,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,912,0,0
+1667946913090,267,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,267,0,61
+1667946913090,268,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,268,0,62
+1667946913090,268,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,268,0,62
+1667946913090,322,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,322,0,62
+1667946913090,325,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,325,0,62
+1667946913359,354,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,354,0,0
+1667946913359,356,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,355,0,0
+1667946913359,401,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,401,0,0
+1667946913414,461,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,461,0,0
+1667946913713,758,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,758,0,0
+1667946913416,1066,register_player,201,Created,jp@gc - Ultimate Thread Group 1-5,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1066,0,0
+1667946913715,811,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,811,0,0
+1667946913760,811,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,811,0,0
+1667946914482,338,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,338,0,0
+1667946913875,1410,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1410,0,0
+1667946914472,836,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-4,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,836,0,0
+1667946914527,833,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,833,0,0
+1667946914822,899,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,899,0,0
+1667946914572,1158,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1158,0,0
+1667946915722,461,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1153,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45316,461,0,0
+1667946915287,941,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,941,0,0
+1667946918081,410,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,409,0,61
+1667946918081,410,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,409,0,61
+1667946918081,412,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,412,0,62
+1667946918081,467,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,467,0,70
+1667946918081,467,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,467,0,61
+1667946918498,345,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,345,0,0
+1667946918496,347,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,347,0,0
+1667946918496,348,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,347,0,0
+1667946918553,564,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,564,0,0
+1667946918551,797,register_player,201,Created,jp@gc - Ultimate Thread Group 1-4,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,797,0,0
+1667946918843,894,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,894,0,0
+1667946918843,894,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,894,0,0
+1667946918845,947,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,947,0,0
+1667946919348,580,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,580,0,0
+1667946919118,888,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,888,0,0
+1667946919794,911,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,911,0,0
+1667946919739,1019,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1018,0,0
+1667946919930,843,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,843,0,0
+1667946919741,1080,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-2,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1080,0,0
+1667946920008,1081,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1081,0,0
+1667946920775,894,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1153,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45317,894,0,0
+1667946923080,309,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,309,0,60
+1667946923080,309,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,309,0,61
+1667946923080,309,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,309,0,61
+1667946923080,309,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,309,0,61
+1667946923080,366,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,366,0,61
+1667946923395,344,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,344,0,0
+1667946923395,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,351,0,0
+1667946923395,404,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,404,0,0
+1667946923448,446,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,446,0,0
+1667946923393,833,register_player,201,Created,jp@gc - Ultimate Thread Group 1-1,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,833,0,0
+1667946923740,763,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,763,0,0
+1667946923746,781,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,781,0,0
+1667946923800,749,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,749,0,0
+1667946924226,374,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,374,0,0
+1667946923894,759,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,759,0,0
+1667946924602,681,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,681,0,0
+1667946924505,822,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,822,0,0
+1667946924531,828,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-4,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,828,0,0
+1667946924552,824,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-5,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,824,0,0
+1667946924657,1124,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-2,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1124,0,0
+1667946925286,932,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1153,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45318,932,0,0
+1667946928077,184,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,184,0,61
+1667946928077,184,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,184,0,61
+1667946928092,171,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,171,0,60
+1667946928092,224,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,224,0,61
+1667946928092,224,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,224,0,62
+1667946928267,355,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,355,0,0
+1667946928266,356,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,356,0,0
+1667946928266,359,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,359,0,0
+1667946928321,549,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,549,0,0
+1667946928321,580,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,579,0,0
+1667946928623,874,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,874,0,0
+1667946928622,875,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,875,0,0
+1667946928625,924,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,924,0,0
+1667946928871,731,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,731,0,0
+1667946928901,1445,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1445,0,0
+1667946929502,852,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,852,0,0
+1667946929500,1306,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1306,0,0
+1667946929604,1203,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1203,0,0
+1667946929551,1256,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1256,0,0
+1667946930350,911,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,911,0,0
+1667946933093,186,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,186,0,59
+1667946933077,202,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,202,0,61
+1667946933077,202,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,202,0,61
+1667946933093,238,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,238,0,59
+1667946933093,238,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,238,0,106
+1667946933284,365,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,365,0,0
+1667946933285,365,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,365,0,0
+1667946933285,366,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,366,0,0
+1667946933335,555,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,555,0,0
+1667946933336,579,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,579,0,0
+1667946933649,824,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,824,0,0
+1667946933651,822,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,822,0,0
+1667946933651,951,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,951,0,0
+1667946933890,746,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,746,0,0
+1667946933916,1269,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1269,0,0
+1667946934477,1181,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-4,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1181,0,0
+1667946934640,1025,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-5,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1025,0,0
+1667946934605,1075,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1075,0,0
+1667946934476,1211,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1211,0,0
+1667946935187,965,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,965,0,0
+1667946938076,186,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,186,0,61
+1667946938091,180,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,180,0,67
+1667946938091,182,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,182,0,67
+1667946938091,185,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,185,0,67
+1667946938092,225,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,225,0,106
+1667946938274,338,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,338,0,0
+1667946938279,337,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,337,0,0
+1667946938266,421,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,421,0,0
+1667946938276,418,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,418,0,0
+1667946938613,859,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,859,0,0
+1667946938617,881,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,881,0,0
+1667946938319,1213,register_player,201,Created,jp@gc - Ultimate Thread Group 1-3,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1213,0,0
+1667946938687,905,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,905,0,0
+1667946938695,923,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,923,0,0
+1667946939532,336,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,336,0,0
+1667946939474,877,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,877,0,0
+1667946939500,867,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,867,0,0
+1667946939621,796,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-5,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,796,0,0
+1667946939594,834,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,834,0,0
+1667946939869,805,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,805,0,0
+1667946940678,431,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-3,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,431,0,0
+1667946943079,235,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,235,0,61
+1667946943079,237,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,237,0,61
+1667946943079,239,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,239,0,61
+1667946943079,286,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,286,0,62
+1667946943079,287,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,287,0,60
+1667946943318,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,351,0,0
+1667946943316,357,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,356,0,0
+1667946943367,511,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,511,0,0
+1667946943368,561,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,561,0,0
+1667946943319,804,register_player,201,Created,jp@gc - Ultimate Thread Group 1-5,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,804,0,0
+1667946943670,740,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,740,0,0
+1667946943878,542,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,542,0,0
+1667946943673,874,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,874,0,0
+1667946944124,573,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,573,0,0
+1667946943930,849,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,849,0,0
+1667946944423,1122,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1122,0,0
+1667946944413,1175,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1175,0,0
+1667946944550,1058,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-4,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1058,0,0
+1667946944700,942,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,942,0,0
+1667946944782,1115,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1115,0,0
+1667946945643,427,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1153,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45320,427,0,0
+1667946948082,355,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,355,0,62
+1667946948082,359,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,359,0,62
+1667946948082,359,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,359,0,61
+1667946948082,405,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,405,0,62
+1667946948082,410,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,410,0,63
+1667946948444,350,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,350,0,0
+1667946948439,356,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,355,0,0
+1667946948443,353,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,353,0,0
+1667946948491,411,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,410,0,0
+1667946948495,562,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,562,0,0
+1667946948795,805,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,805,0,0
+1667946948794,806,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,806,0,0
+1667946948796,810,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,810,0,0
+1667946948902,841,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,841,0,0
+1667946949602,486,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,486,0,0
+1667946949602,494,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,494,0,0
+1667946949607,546,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,546,0,0
+1667946949057,1239,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1239,0,0
+1667946949745,1196,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-4,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1196,0,0
+1667946950299,725,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-5,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,725,0,0
+1667946953083,181,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,181,0,63
+1667946953083,181,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,181,0,62
+1667946953083,181,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,181,0,62
+1667946953083,232,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,232,0,63
+1667946953083,232,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,232,0,63
+1667946953272,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,350,0,0
+1667946953272,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,351,0,0
+1667946953272,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,351,0,0
+1667946953319,597,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,597,0,0
+1667946953319,599,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,599,0,0
+1667946953624,750,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,750,0,0
+1667946953624,759,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,759,0,0
+1667946953624,759,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,759,0,0
+1667946953917,517,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,517,0,0
+1667946953918,1266,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1266,0,0
+1667946954379,859,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-3,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,859,0,0
+1667946954388,861,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,861,0,0
+1667946954387,909,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,909,0,0
+1667946954435,1213,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1213,0,0
+1667946955187,891,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,891,0,0
+1667946958078,185,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,185,0,61
+1667946958079,184,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,184,0,62
+1667946958078,186,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,186,0,62
+1667946958093,225,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,225,0,62
+1667946958093,225,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,225,0,107
+1667946958267,355,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,355,0,0
+1667946958268,358,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,358,0,0
+1667946958268,361,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,360,0,0
+1667946958322,703,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,702,0,0
+1667946958322,703,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,703,0,0
+1667946958626,870,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,870,0,0
+1667946958623,879,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,879,0,0
+1667946959025,522,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,522,0,0
+1667946958629,1087,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1087,0,0
+1667946959025,1262,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1262,0,0
+1667946959500,879,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-2,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,879,0,0
+1667946959504,1182,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1182,0,0
+1667946959549,1170,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1170,0,0
+1667946959720,1101,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1101,0,0
+1667946960289,953,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,953,0,0
+1667946963077,185,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,185,0,61
+1667946963075,189,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,189,0,61
+1667946963081,184,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,184,0,61
+1667946963081,233,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,233,0,61
+1667946963081,233,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,233,0,61
+1667946963268,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,351,0,0
+1667946963268,359,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,359,0,0
+1667946963266,361,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,361,0,0
+1667946963318,587,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,587,0,0
+1667946963318,589,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,589,0,0
+1667946963620,751,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,751,0,0
+1667946963628,792,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,792,0,0
+1667946963628,795,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,795,0,0
+1667946963908,997,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,997,0,0
+1667946963905,1190,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1190,0,0
+1667946964374,1011,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-2,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1011,0,0
+1667946964423,1151,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1151,0,0
+1667946964425,1399,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1398,0,0
+1667946964907,1081,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1080,0,0
+1667946965097,1156,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1156,0,0
+1667946968078,180,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,180,0,60
+1667946968076,182,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,182,0,60
+1667946968076,183,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,183,0,61
+1667946968080,235,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,235,0,60
+1667946968081,293,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,293,0,64
+1667946968262,325,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,325,0,0
+1667946968262,373,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,373,0,0
+1667946968318,667,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,667,0,0
+1667946968261,773,register_player,201,Created,jp@gc - Ultimate Thread Group 1-1,text,true,,1197,1003,5,5,http://test-api.d6.dev.devcaz.com/v2/players,773,0,0
+1667946968375,673,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,672,0,0
+1667946969034,350,Player_token_after_register,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,374,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,350,0,0
+1667946968588,861,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,861,0,0
+1667946968635,1028,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1028,0,0
+1667946968985,749,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,749,0,0
+1667946969048,1097,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1097,0,0
+1667946969666,559,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,559,0,0
+1667946969385,840,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1340,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,840,0,0
+1667946969736,545,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,545,0,0
+1667946969452,1245,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1245,0,0
+1667946970146,995,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,995,0,0
+1667946970228,926,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,926,0,0
+1667946973081,180,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,180,0,61
+1667946973076,202,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,202,0,65
+1667946973078,200,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,200,0,64
+1667946973076,250,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,250,0,66
+1667946973079,251,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,251,0,63
+1667946973263,351,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,351,0,0
+1667946973281,339,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,339,0,0
+1667946973281,340,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,340,0,0
+1667946973329,567,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,567,0,0
+1667946973332,565,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,564,0,0
+1667946973622,750,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,750,0,0
+1667946973615,757,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,757,0,0
+1667946973621,751,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,751,0,0
+1667946973898,964,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,964,0,0
+1667946973896,1180,Get_player_info,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1338,1099,5,5,http://test-api.d6.dev.devcaz.com/v2/players,1180,0,0
+1667946974374,1057,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1057,0,0
+1667946974374,1232,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-1,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1232,0,0
+1667946974376,1416,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-4,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1416,0,0
+1667946974866,1108,Get_player_by_wrong_id,404,Not Found,jp@gc - Ultimate Thread Group 1-5,text,false,,1015,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45087,1108,0,0
+1667946975080,1193,Get_player_by_id,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,1151,1105,5,5,http://test-api.d6.dev.devcaz.com/v2/players/45261,1193,0,0
+1667946978076,243,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,243,0,62
+1667946978076,247,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,247,0,63
+1667946978079,244,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,244,0,60
+1667946978079,296,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,296,0,62
+1667946978080,295,Guest_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,939,347,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,295,0,60
+1667946978322,343,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-2,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,343,0,0
+1667946978326,339,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,339,0,0
+1667946978326,345,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-5,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,345,0,0
+1667946978378,619,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-3,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,619,0,0
+1667946978378,619,Player_token,200,OK,jp@gc - Ultimate Thread Group 1-4,text,true,,2456,372,5,5,http://test-api.d6.dev.devcaz.com/v2/oauth2/token,619,0,0
+1667946978998,608,Get_player_info,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-3,text,false,,2699,0,5,5,http://test-api.d6.dev.devcaz.com/v2/players,0,0,0
+1667946978666,940,Get_player_info,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-2,text,false,,2699,0,5,5,http://test-api.d6.dev.devcaz.com/v2/players,0,0,0
+1667946978671,936,Get_player_info,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-5,text,false,,2699,0,5,5,http://test-api.d6.dev.devcaz.com/v2/players,0,0,0
+1667946978998,609,Get_player_info,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-4,text,false,,2699,0,5,5,http://test-api.d6.dev.devcaz.com/v2/players,0,0,0
+1667946978666,942,Get_player_info,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,jp@gc - Ultimate Thread Group 1-1,text,false,,2699,0,4,4,http://test-api.d6.dev.devcaz.com/v2/players,0,0,0
